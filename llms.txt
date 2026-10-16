@@ -1,0 +1,7 @@
+# ControlStackAI Silicon — Autonomous Engineering Research
+
+> Public project and website references. HTML pages are canonical; project goals are not claims of completed implementation.
+
+## Pages
+
+- [ControlStackAI Silicon — Autonomous Engineering Research](https://controlstackai-silicon.github.io/): An open research initiative exploring how autonomous engineering agents can design, verify, and improve specialized processors—from RTL to physical silicon.

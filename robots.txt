@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://controlstackai-silicon.github.io/sitemap.xml
