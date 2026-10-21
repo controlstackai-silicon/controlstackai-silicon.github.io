@@ -1,7 +1,5 @@
-# ControlStackAI Silicon — Autonomous Engineering Research
+# Moved
 
-> Public project and website references. HTML pages are canonical; project goals are not claims of completed implementation.
+> The Silicon research program has moved to https://aerospace-superintelligence.com/silicon/
 
-## Pages
-
-- [ControlStackAI Silicon — Autonomous Engineering Research](https://controlstackai-silicon.github.io/): An open research initiative exploring how autonomous engineering agents can design, verify, and improve specialized processors—from RTL to physical silicon.
+See https://aerospace-superintelligence.com/llms.txt for current pages.
